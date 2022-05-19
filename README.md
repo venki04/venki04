@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @venki04
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Vision using OpenCV
-- 💞️ I’m looking to collaborate on as many as i could
+- I’m looking to collaborate on as many as i could
+- Participated in HACKTOBERFEST 2022.
 
 
 <!---
